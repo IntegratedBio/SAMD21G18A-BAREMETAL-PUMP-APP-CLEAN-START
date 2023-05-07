@@ -1,11 +1,11 @@
 Board: Arduino Nano 33 IoT Compatibility: Nano 33's / Zero / MKR1000 / Seeed Studio XIAO or and SAMD21G18A based mcu.
 
-Processor: SAMD21G18A @ 48MHz, 3.3v
-Program: Application File
-Compiler: ARM-GCC Microchip Studio
-Program Version 1.4
-Program Description: Bare Metal Pump Control Application
-Hardware Description: Pressure transmitter for pressure monitoring, pump relay for pressure control, low level switch for run-dry protection, FT232R TTL Serial        Converter Adapter Module, Atmel ICE. 
+PROCESSOR: SAMD21G18A @ 48MHz, 3.3v
+PROGRAM: Pump Control Application
+COMPILER: ARM-GCC Microchip Studio
+PROGREM VERSION: 1.4
+PROGRAM DESCRIPTION: Bare Metal Pump Control Application
+HARDWARE: Pressure transmitter for pressure monitoring, pump relay for pressure control, low level switch for run-dry protection, FT232R TTL Serial        Converter Adapter Module, Atmel ICE. 
 
 ADC READ CONFIGURATION SUMMARY
 ADC CHANNEL:			11 (+) PB03/A7 
